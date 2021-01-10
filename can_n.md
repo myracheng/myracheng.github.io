@@ -6,7 +6,7 @@
   <center>
   <textarea name="message" cols="30" rows="10" width="50%"></textarea>
   <br>
-  <input type="submit" onclick="setTimeout(myFunction, 1000);"/>
+  <input type="submit" onclick="myFunction();"/>
      <script>
        function myFunction() {
          window.location.href="no_n";
