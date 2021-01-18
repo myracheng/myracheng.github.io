@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 
 typewriter.typeString('Hi, I’m Myra. ')
     .pauseFor(1000)
-    .typeString('I like to read a lot and write a little.')
+    .typeString('I believe hope is a discipline.')
     .callFunction(function() {
         $(".Typewriter__cursor").hide();
     })
