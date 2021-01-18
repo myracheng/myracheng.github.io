@@ -1,3 +1,11 @@
+window.onload = choosePic;
+
+var myPix = new Array("gifs/bird.gif","gifs/bk.gif","gifs/ph.gif","gifs/snail.gif","gifs/tonton.gif","gifs/ttq.gif");
+
+function choosePic() {
+     var randomNum = Math.floor(Math.random() * myPix.length);
+     document.getElementById("logo").src = myPix[randomNum];
+
 // Typewriter JS Code
 var app = document.getElementById('intro');
 
