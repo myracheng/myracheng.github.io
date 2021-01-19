@@ -4,7 +4,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
-    color: #133344;
+    color: #666;
     overflow-x: hidden;
     width: 100%;
 }
@@ -22,7 +22,7 @@ span.heading::after {
     content: "";
     position: absolute;
     width: 100%;
-    background: #CEE5F2;
+    background: #DFC3B7;
     left: -0.4em;
     bottom: -0.1em;
     height: 0.8em;
@@ -35,11 +35,12 @@ span.location {
 
 a {
     text-decoration: none !important;
-    color: inherit;
+    color: #999;
 }
 
 a:hover {
-    color: var(--hov);
+    color:inherit;
+    background-color: var(--hov);
 }
 
 /* Layout */
