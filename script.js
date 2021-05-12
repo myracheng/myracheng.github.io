@@ -7,16 +7,16 @@ function choosePic() {
      document.getElementById("logo").src = myPix[randomNum];
 }
 // Typewriter JS Code
-var app = document.getElementById('intro');
+// var app = document.getElementById('intro');
 
-var typewriter = new Typewriter(app, {
-    delay: 75
-});
+// var typewriter = new Typewriter(app, {
+//     delay: 75
+// });
 
-// typewriter.typeString('Hi, I’m Myra. ')
-//     .pauseFor(1000)
-//     .typeString('I believe hope is a discipline.')
-//     .callFunction(function() {
-//         $(".Typewriter__cursor").hide();
-//     })
+// typewriter.typeString('Even a garbage fire can bring illumination.')
+//     // .pauseFor(1000)
+//     // .typeString('I believe hope is a discipline.')
+//     // .callFunction(function() {
+//     //     $(".Typewriter__cursor").hide();
+//     // })
 //     .start();
