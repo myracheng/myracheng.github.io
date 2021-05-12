@@ -13,10 +13,10 @@ var typewriter = new Typewriter(app, {
     delay: 75
 });
 
-typewriter.typeString('Hi, I’m Myra. ')
-    .pauseFor(1000)
-    .typeString('I believe hope is a discipline.')
-    .callFunction(function() {
-        $(".Typewriter__cursor").hide();
-    })
-    .start();
+// typewriter.typeString('Hi, I’m Myra. ')
+//     .pauseFor(1000)
+//     .typeString('I believe hope is a discipline.')
+//     .callFunction(function() {
+//         $(".Typewriter__cursor").hide();
+//     })
+//     .start();
