@@ -32,6 +32,7 @@ span.heading::after {
     position: absolute;
     width: 100%;
     background: #DFC3B7; /*highlight*/
+    opacity:50%;
     left: -0.4em;
     bottom: -0.1em;
     height: 0.8em;
