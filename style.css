@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
+@import url('https://fonts.googleapis.com/css?family=Prata');
 /* Text Styling */
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 14px;
     color: #666;
     overflow-x: hidden;
@@ -10,7 +14,12 @@ body {
 }
 
 span#name {
-    font-weight: bold;
+    font-family:'Prata',sans-serif;
+    /* font-weight: bold; */
+    font-size:20px;
+    /* letter-spacing: ; */
+    /* text-transform: uppercase; */
+    
     
 }
 
@@ -22,7 +31,7 @@ span.heading::after {
     content: "";
     position: absolute;
     width: 100%;
-    background: #DFC3B7;
+    background: #DFC3B7; /*highlight*/
     left: -0.4em;
     bottom: -0.1em;
     height: 0.8em;
