@@ -7,8 +7,8 @@
 /* Text Styling */
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
-    text-align: justify;
+    /* font-size: 18px; */
+    /* text-align: justify; */
     color: #666;
     overflow-x: hidden;
     width: 100%;
@@ -86,7 +86,7 @@ a:hover {
 .rel {
     position: relative;
 
-    line-height: 40pt;
+    /* line-height: 40pt; */
 }
 
 #intro {
