@@ -16,7 +16,7 @@ layout: default
 4. M. Cheng, A. Galimzianova, Z. Lesjak, Z. Spiclin, C. Lock, D. Rubin. A Multi-scale Multiple Sclerosis Lesion Change Detection in a Multi-sequence MRI. In LNCS book, Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, MICCAI 2018. [[pdf](https://web.stanford.edu/group/rubinlab/pubs/Cheng-2018-AMulti-scaleMultipleSclerosis.pdf)]
 
 ## Other stuff
-I enjoy [reading books](books) and [baking things](http://instagram.com/tarobun). You can also find me on [Github](https://github.com/myracheng) and [Medium](https://medium.com/@myracheng). This website uses a template from [Ankita Sultana](https://github.com/ankitsultana). 
+I enjoy [reading books](books) and [baking things](http://instagram.com/tarobun). You can also find me on [Github](https://github.com/myracheng) and [Medium](https://medium.com/@myracheng). This website uses a template from [Ankit Sultana](https://github.com/ankitsultana). 
 
-<center><img src="tontonsnail.gif"></center>
+<center><img style="max-height: 100px;" src="tontonsnail.gif"></center>
 
