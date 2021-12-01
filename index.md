@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/me.jpg">
 
- Hi! I'm Myra. I'm in my final year of undergrad at [Caltech](https://cms.caltech.edu/news?keyword=Myra+Cheng), where I study computer science and history. I recently interned at Microsoft Research, where I investigated the implications of algorithmic fairness techniques, and DeepMind, where I studied biases in large language models. I also started [TechReach](https://techreach.clubs.caltech.edu/) at Caltech to explore the human and social impacts of technology. 
+ Hi! I'm Myra. I'm in my final year of undergrad at [Caltech](https://cms.caltech.edu/news?keyword=Myra+Cheng), where I study computer science and history. I worked at Microsoft Research, where I investigated the limitations of algorithmic fairness techniques, and DeepMind, where I studied biases in large language models. I also started [TechReach](https://techreach.clubs.caltech.edu/) at Caltech to explore the human and social impacts of technology. 
 
 ## Publications
 
