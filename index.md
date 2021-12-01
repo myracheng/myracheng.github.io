@@ -18,5 +18,5 @@ layout: default
 ## Other stuff
 I enjoy [reading books](books) and [baking things](http://instagram.com/tarobun). You can also find me on [Github](https://github.com/myracheng) and [Medium](https://medium.com/@myracheng). This website uses a template from [Ankit Sultana](https://github.com/ankitsultana). 
 
-<center><img style="max-height: 100px;" src="tontonsnail.gif"></center>
+<!-- <center><img style="max-height: 100px;" src="tontonsnail.gif"></center> -->
 
