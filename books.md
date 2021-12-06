@@ -3,11 +3,11 @@
 I keep track of my reading using [Goodreads](https://goodreads.com/myrainyday). Here are some of the books that have shaped my perspectives and resonated with me.
 
 ### 2021 (to date)
-- _Cultish: The Language of Fanaticism_ by Amanda Montell
 - _Girl, Woman, Other_ by Bernadine Evaristo
 - _How to Write an Autobiographical Novel: Essays_ by Alexander Chee
 - _Never Let Me Go_ by Kazuo Ishiguro
-- _The Song of Achilles_ by Madeline Miller
+- _Tastes Like War_ by Grace M. Cho
+- _The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma_ by Bessel Van Der Kolk
   
 ### 2020
 - _A Tale for the Time Being_ by Ruth Ozeki
