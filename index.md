@@ -13,7 +13,7 @@ layout: default
 1. Social Norm Bias: Residual Harms of Fairness-Aware Algorithms. 
 ICML Machine Learning for Data Workshop 2021 (Spotlight Talk), under review for journal publication. 
 [[paper](https://arxiv.org/pdf/2108.11056.pdf)]
-2. Social and ethical risks of Language Models. 
+1. Ethical and Social Risks of Harm from Language Models.
 [[paper](https://dpmd.ai/llm-ethics)]
 3. Human Preference-Based Learning for High-dimensional Optimization of Exoskeleton Walking Gaits. 
 IROS 2020 and ICML 2020 RealML Workshop. 
