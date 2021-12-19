@@ -15,8 +15,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "resume.pdf"
+# nav:
+#  - name: "About"
+  #  link: "/"
+#  - name: "CV"
+  #  link: "resume.pdf"

@@ -22,7 +22,7 @@ IROS 2020 and ICML 2020 RealML Workshop.
 [[paper](https://web.stanford.edu/group/rubinlab/pubs/Cheng-2018-AMulti-scaleMultipleSclerosis.pdf)]
 
 ## Other stuff
-I enjoy [reading books](books) and [baking things](http://instagram.com/tarobun). You can also find me on [Github](https://github.com/myracheng) and [Medium](https://medium.com/@myracheng). This website uses a template from [Ankit Sultana](https://github.com/ankitsultana). 
+I enjoy [reading books](books) and [baking things](https://www.overleaf.com/read/vrqcbnmpnsfj). This website uses a template from [Ankit Sultana](https://github.com/ankitsultana). 
 
 <!-- <center><img style="max-height: 100px;" src="tontonsnail.gif"></center> -->
 
