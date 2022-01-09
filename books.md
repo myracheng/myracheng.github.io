@@ -28,6 +28,6 @@ I keep track of my reading using [Goodreads](https://goodreads.com/myrainyday). 
 - _Educated_ by Tara Westover
 - _Pachinko_ by Min Jin Lee
 - _The Book of Joy: Lasting Happiness in a Changing World_ by Dalai Lama XIV, Desmond Tutu, and Douglas Carlton Abrams
-- _Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker
+- ~~_Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker~~ 
 
 <center><img style="width: 50px;" src="tontonbooks.gif"></center>
