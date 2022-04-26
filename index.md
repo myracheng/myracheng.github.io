@@ -8,12 +8,12 @@ layout: default
 
  Hi! I'm Myra. I'm in my final year of undergrad at [Caltech](https://cms.caltech.edu/news?keyword=Myra+Cheng), where I study computer science and history. I worked at Microsoft Research, where I investigated the limitations of algorithmic fairness techniques, and DeepMind, where I studied biases in large language models. I also started [TechReach](https://techreach.clubs.caltech.edu/) at Caltech to explore the human and social impacts of technology. 
 
-## Papers
+## Research
 
 1. Social Norm Bias: Residual Harms of Fairness-Aware Algorithms. 
-ICML Machine Learning for Data Workshop 2021 (Spotlight Talk), under review for journal publication. 
+ICML Machine Learning for Data Workshop 2021 (Spotlight Talk).
 [[paper](https://arxiv.org/pdf/2108.11056.pdf)]
-1. Ethical and Social Risks of Harm from Language Models.
+1. Ethical and Social Risks of Harm from Language Models. FAccT 2022.
 [[paper](https://dpmd.ai/llm-ethics)]
 3. Human Preference-Based Learning for High-dimensional Optimization of Exoskeleton Walking Gaits. 
 IROS 2020 and ICML 2020 RealML Workshop. 
