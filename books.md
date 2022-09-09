@@ -1,4 +1,5 @@
-## Books
+## Fun stuff
+I enjoy [reading books](books) and [baking](https://www.instagram.com/tarobun/) [things](https://www.overleaf.com/read/vrqcbnmpnsfj).
 
 I keep track of my reading using [Goodreads](https://goodreads.com/myrainyday). Here are some of the books that have shaped my perspectives and resonated with me.
 
