@@ -2,7 +2,13 @@
 
 I keep track of my reading using [Goodreads](https://goodreads.com/myrainyday). Here are some of the books that have shaped my perspectives and resonated with me.
 
-### 2021 (to date)
+### 2022 (to date)
+- _Bullshit Jobs_ by David Graeber
+- _Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex_ by Angela Chen
+- _Dawn_ by Octavia Butler (and its sequels)
+- _Sula_ by Toni Morrison
+
+### 2021
 - _Girl, Woman, Other_ by Bernadine Evaristo
 - _How to Write an Autobiographical Novel: Essays_ by Alexander Chee
 - _Never Let Me Go_ by Kazuo Ishiguro
@@ -28,6 +34,6 @@ I keep track of my reading using [Goodreads](https://goodreads.com/myrainyday). 
 - _Educated_ by Tara Westover
 - _Pachinko_ by Min Jin Lee
 - _The Book of Joy: Lasting Happiness in a Changing World_ by Dalai Lama XIV, Desmond Tutu, and Douglas Carlton Abrams
-- _Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker
+- ~~_Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker~~ 
 
 <center><img style="width: 50px;" src="tontonbooks.gif"></center>
