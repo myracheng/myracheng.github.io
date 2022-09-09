@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="imgs/duck.HEIC">
+<img class="profile-picture" src="imgs/duck.png">
 
 Hi! I'm Myra. I'm a first-year PhD student in Computer Science at Stanford. I'm currently rotating with <a href="https://web.stanford.edu/~jurafsky"/>Dan Jurafsky</a>. I am supported by the Knight-Hennessy Scholarship, Stanford EDGE Fellowship, and NSF GRFP.
 
