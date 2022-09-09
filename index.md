@@ -25,8 +25,7 @@ I'm immensely grateful to my co-authors for their mentorship.
 3. Tucker, Maegan, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames. "Human Preference-based Learning for High-dimensional Optimization of Exoskeleton Walking Gaits." IROS 2020 and ICML 2020 RealML Workshop. 
 [[paper](https://arxiv.org/pdf/2003.06495.pdf)]
 
-4. Cheng, Myra, Alfiia Galimzianova, Žiga Lesjak, Žiga Špiclin, Christopher B. Lock, and Daniel L. Rubin. "A Multi-scale Multiple Sclerosis Lesion Change Detection in a Multi-sequence MRI." LNCS book with MICCAI 2018. 
-[[paper](https://web.stanford.edu/group/rubinlab/pubs/Cheng-2018-AMulti-scaleMultipleSclerosis.pdf)]
+4. Cheng, Myra, Alfiia Galimzianova, Žiga Lesjak, Žiga Špiclin, Christopher B. Lock, and Daniel L. Rubin. "A Multi-scale Multiple Sclerosis Lesion Change Detection in a Multi-sequence MRI." LNCS book with MICCAI 2018. [[paper](https://web.stanford.edu/group/rubinlab/pubs/Cheng-2018-AMulti-scaleMultipleSclerosis.pdf)]
 
 ## Teaching
 At Caltech:
