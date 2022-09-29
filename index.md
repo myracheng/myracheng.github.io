@@ -10,7 +10,7 @@ Hi! I'm Myra, a first-year PhD student in Computer Science at Stanford. In Autum
 
 I double-majored in computer science and <a href="https://thesis.library.caltech.edu/14990/">history</a> at Caltech, where I was advised by Professors <a href="http://www.yisongyue.com/">Yisong Yue</a>, Joel Burdick, and Maura Dykstra.
  
-My email is myra1 [at] stanford [dot] edu. 
+My email is myra [at] cs [dot] stanford [dot] edu. 
 
 
 
