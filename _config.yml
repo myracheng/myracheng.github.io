@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/"
  - name: "Research"
-   link: "https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en"
+   link: "research"
  - name: "Teaching"
    link: "teaching"
