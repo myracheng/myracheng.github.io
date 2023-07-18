@@ -7,6 +7,6 @@
 
 3. Myra Cheng, Maria De-Arteaga, Lester Mackey, and Adam Tauman Kalai. [Social Norm Bias: Residual Harms of Fairness-Aware Algorithms.](https://arxiv.org/pdf/2108.11056.pdf) Data Mining and Knowledge Discovery 2023.
 
-4. Weidinger, Laura, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng et al. [Ethical and Social Risks of Harm from Language Models.](https://dpmd.ai/llm-ethics) ACM FAccT 2022.
+4. Laura Weidinger, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng et al. [Ethical and Social Risks of Harm from Language Models.](https://dpmd.ai/llm-ethics) ACM FAccT 2022.
 
-##### Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en) :) 
+### Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en) :) 
