@@ -1,8 +1,8 @@
 ## Publications
 
-1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. 🤖 [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024.  
+1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. 🤖 [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024.
 
-         <span style="color:#7BA6B7">Try out AnthroScore on [the website](http://anthroscore.stanford.edu/)!</span>
+<center><span style="color:#7BA6B7;text-align: center;">Try out AnthroScore on [the website](http://anthroscore.stanford.edu/)!</span></center>
 
 
 4. Myra Cheng, Tiziano Piccardi, Diyi Yang. 👩🏻‍🌾 [CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations.](https://arxiv.org/pdf/2310.11501.pdf) EMNLP 2023.
