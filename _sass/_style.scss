@@ -4,6 +4,7 @@
  * Basic
  */
 
+
 html {
     height: 100%;
     margin: 0;
@@ -126,6 +127,12 @@ hr {
 		margin: 0;
 	}
 }
-
+.subline {
+	color: #888;
+	font-style:italic;
+}
+.subline a {
+	color: #7BA6B7;
+}
 @import "typography";
 @import "tables";
