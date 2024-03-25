@@ -2,7 +2,7 @@
 
 1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024.   
 <span class="subline">Try out AnthroScore on <a href="http://anthroscore.stanford.edu/">the website</a>!  
-Press coverage by [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>  
+Press coverage by [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>  
 
 3. Myra Cheng, Tiziano Piccardi, Diyi Yang. [CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations.](https://arxiv.org/pdf/2310.11501.pdf) EMNLP 2023. <span class="subline">[[poster]](compost_poster.pdf)</span>
 
