@@ -1,12 +1,12 @@
 ## Publications
 
-1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[presentation slides]](anthroslides.pdf)     
-<span class="subline">Try out AnthroScore on <a href="http://anthroscore.stanford.edu/">the website</a>!  
+1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf)</span>
+<span class="subline">
 Press coverage by [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>  
 
 3. Myra Cheng, Tiziano Piccardi, Diyi Yang. [CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations.](https://arxiv.org/pdf/2310.11501.pdf) EMNLP 2023. <span class="subline">[[poster]](compost_poster.pdf)</span>
 
-4. Myra Cheng, Esin Durmus, Dan Jurafsky. [Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models.](https://arxiv.org/pdf/2305.18189.pdf) ACL 2023. <span class="subline">[[presentation slides]](marked_slides.pdf)  
+4. Myra Cheng, Esin Durmus, Dan Jurafsky. [Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models.](https://arxiv.org/pdf/2305.18189.pdf) ACL 2023. <span class="subline">[[slides]](marked_slides.pdf)  
 Social Impact Award, Nominated for Best Paper</span> 
 
 5. Federico Bianchi\*, Pratyusha Kalluri\*, Esin Durmus\*, Faisal Ladhak\*, Myra Cheng\*, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan. [Easily accessible text-to-image generation amplifies demographic stereotypes at large scale.](https://arxiv.org/pdf/2211.03759.pdf) FAccT 2023.  
