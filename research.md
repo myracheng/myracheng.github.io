@@ -1,6 +1,6 @@
 ## Publications
 
-1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024.   
+1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[presentation slides]](anthroslides.pdf)     
 <span class="subline">Try out AnthroScore on <a href="http://anthroscore.stanford.edu/">the website</a>!  
 Press coverage by [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>  
 
