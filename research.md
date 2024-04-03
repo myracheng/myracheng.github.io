@@ -1,6 +1,8 @@
 ## Publications
 
-1. Myra Cheng, Kristina Gligoric, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf)</span>
+1. Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky. [NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps.](https://arxiv.org/pdf/2404.01651.pdf) NAACL 2024.
+
+2. Myra Cheng, Kristina Gligorić, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf)</span>
 <span class="subline">
 Press coverage by [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>  
 
