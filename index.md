@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/me.jpg">
 
-Hi! I'm Myra! I'm a PhD student in Computer Science at Stanford, advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a>. Grounded in critical theory and humanistic insights, my work aims to mitigate algorithmic harms from language technologies and reveal the implicit norms that shape their development. Currently, I'm particularly interested in the imapcts of anthropomorphising LLMs.
+Hi! I'm Myra! I'm a PhD student in Computer Science at Stanford, advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a>. Grounded in critical theory and humanistic insights, my work aims to mitigate algorithmic harms from language technologies and reveal the implicit norms that shape their development, from [anthropomorphism](https://aclanthology.org/2024.eacl-long.49/) to [social biases](https://aclanthology.org/2023.acl-long.84/).
 
 I am supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship.
 
