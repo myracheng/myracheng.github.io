@@ -18,5 +18,4 @@ My email is myra [at] cs [dot] stanford [dot] edu.
 ### Updates
 **October 2024**: Attending [AIES](https://www.aies-conference.com/2024/). 
 
-**October 2024**: ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI
-](https://arxiv.org/abs/2410.08526).  
+**October 2024**: ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI](https://arxiv.org/abs/2410.08526).  
