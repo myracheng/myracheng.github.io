@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-## Myra Cheng
-
 <img class="profile-picture" src="imgs/me.jpg">
 
 I am a PhD candidate in Computer Science in the Stanford NLP group. My research focuses on improving language technologies to better serve the populations who are typically overlooked in NLP. Grounded in humanistic insights, I develop NLP techniques to understand the social impacts of technology, from [anthropomorphism](https://aclanthology.org/2024.eacl-long.49/) to [social biases](https://aclanthology.org/2023.acl-long.84/). I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
