@@ -19,7 +19,11 @@ Press coverage by [Scientific American](https://www.scientificamerican.com/artic
 7. Laura Weidinger, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng et al. [Ethical and Social Risks of Harm from Language Models.](https://arxiv.org/pdf/2112.04359.pdf) FAccT 2022.
 
 ### Preprints
-1. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
+1. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, and Alexandra Olteanu. ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://arxiv.org/pdf/2410.08526)
+
+2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
 <span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
 
 ### Also see [Semantic Scholar](https://www.semanticscholar.org/author/M.-Cheng/2149615775) & [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en) :) 
+
+
