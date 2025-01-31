@@ -23,7 +23,7 @@ Press coverage by [Scientific American](https://www.scientificamerican.com/artic
 
 ### Preprints
 
-1. Myra Cheng, Angela Y. Lee, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)
+1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)
 
 2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
 <span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
