@@ -1,7 +1,7 @@
 ## Publications
-1. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, and Alexandra Olteanu. [Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://arxiv.org/pdf/2410.08526) ICLR 2025, Blogposts Track (forthcoming)
+1. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, Alexandra Olteanu. [Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://arxiv.org/pdf/2410.08526) ICLR 2025, Blogposts Track (forthcoming)
 
-2. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, and Su Lin Blodgett. A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies. CHI 2025 (forthcoming)
+2. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies. CHI 2025 (forthcoming)
    
 1. Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky. [NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps.](https://arxiv.org/pdf/2404.01651.pdf) NAACL 2024.
 
@@ -23,7 +23,7 @@ Press coverage by [Scientific American](https://www.scientificamerican.com/artic
 
 ### Preprints
 
-1. Myra Cheng, Angela Y. Lee, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher and Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)
+1. Myra Cheng, Angela Y. Lee, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)
 
 2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
 <span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
