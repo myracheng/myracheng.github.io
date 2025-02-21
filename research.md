@@ -1,7 +1,18 @@
 ## Publications
+1. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs](https://www.arxiv.org/pdf/2502.13259)
+
+2. Myra Cheng, Su Lin Blodgett,  Alicia DeVrio, Lisa Egede, Alexandra Olteanu. [Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems](https://arxiv.org/pdf/2502.14019)
+
+
+1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)   
+<span  class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/) and [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/).</span>
+
 1. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, Alexandra Olteanu. [Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://arxiv.org/pdf/2410.08526) ICLR 2025, Blogposts Track (forthcoming)
 
-2. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies. CHI 2025 (forthcoming)
+2. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. [A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies.](https://arxiv.org/pdf/2502.09870) CHI 2025.
+
+2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
+<span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
    
 1. Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky. [NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps.](https://arxiv.org/pdf/2404.01651.pdf) NAACL 2024.
 
@@ -21,15 +32,6 @@ Press coverage by [Scientific American](https://www.scientificamerican.com/artic
 
 7. Laura Weidinger, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng et al. [Ethical and Social Risks of Harm from Language Models.](https://arxiv.org/pdf/2112.04359.pdf) FAccT 2022.
 
-### Preprints
-
-1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)   
-<span  class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/) and [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/).</span>
-
-2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
-<span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
 
 ### Also see [Semantic Scholar](https://www.semanticscholar.org/author/M.-Cheng/2149615775) & [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en) :) 
 
-
-<br><br>
