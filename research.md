@@ -3,7 +3,7 @@
 
 2. Myra Cheng, Su Lin Blodgett,  Alicia DeVrio, Lisa Egede, Alexandra Olteanu. [Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems](https://arxiv.org/pdf/2502.14019)
 
-1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045)   
+1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045) FAccT 2025.   
 <span  class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
 
 1. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, Alexandra Olteanu. ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://arxiv.org/pdf/2410.08526) ICLR 2025, Blogposts Track (forthcoming)
