@@ -1,7 +1,9 @@
 ## Publications
-1. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs](https://www.arxiv.org/pdf/2502.13259). ACL 2025.
+1. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [Social Sycophancy: A Broader Understanding of LLM Sycophancy.](https://arxiv.org/pdf/2505.13995) <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>
 
-2. Myra Cheng, Su Lin Blodgett,  Alicia DeVrio, Lisa Egede, Alexandra Olteanu. [Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems](https://arxiv.org/pdf/2502.14019). ACL 2025.
+2. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs.](https://www.arxiv.org/pdf/2502.13259) ACL 2025. <span class="subline">[[code]](https://github.com/myracheng/humtdumt)</span>
+
+3. Myra Cheng, Su Lin Blodgett,  Alicia DeVrio, Lisa Egede, Alexandra Olteanu. [Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems](https://arxiv.org/pdf/2502.14019). ACL 2025.
 
 1. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045) FAccT 2025.   
 <span  class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
@@ -12,7 +14,7 @@
 
 3. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. [A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies.](https://arxiv.org/pdf/2502.09870) CHI 2025.
 
-2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf)   
+2. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [The Surveillance AI Pipeline.](https://arxiv.org/pdf/2309.15084.pdf) Nature (forthcoming) 2025.   
 <span  class="subline">Press coverage by [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
    
 1. Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky. [NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps.](https://arxiv.org/pdf/2404.01651.pdf) NAACL 2024.
