@@ -1,7 +1,7 @@
 ## Teaching
 
 ### At Stanford
-**Winter 2025:** TA for [*CS 224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/).
+**Winter 2025:** TA for [*CS 224N: Natural Language Processing with Deep Learning*](https://web.stanford.edu/class/cs224n/).  
 **Fall 2024:** TA for [*CS 329: Race and Natural Language Processing*](https://web.stanford.edu/class/cs329r/).
    
 ### At Caltech
