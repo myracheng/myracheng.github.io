@@ -1,5 +1,5 @@
 ## Selected Publications
-For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)
+For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
 1. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [Social Sycophancy: A Broader Understanding of LLM Sycophancy.](https://arxiv.org/pdf/2505.13995) <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>
@@ -16,7 +16,7 @@ For a full list, see [Google Scholar](https://scholar.google.com/citations?user=
 
 6. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. [A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies.](https://arxiv.org/pdf/2502.09870) CHI 2025.
 
-### Measuring implicit language to reveal perceptions of AI
+### Large-Scale Analysis of Implicit Language in AI Discourse
 7. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045) FAccT 2025.   
 <span class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
 
