@@ -1,22 +1,19 @@
 ## Selected Publications
+
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
 1. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [Social Sycophancy: A Broader Understanding of LLM Sycophancy.](https://arxiv.org/pdf/2505.13995) <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>
 <span class="subline">Press coverage by [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/) and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
-### Anthropomorphic AI
+### Anthropomorphic AI Outputs
 2. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs.](https://www.arxiv.org/pdf/2502.13259) ACL 2025. <span class="subline">[[code]](https://github.com/myracheng/humtdumt)</span>
 
 3. Myra Cheng, Su Lin Blodgett,  Alicia DeVrio, Lisa Egede, Alexandra Olteanu. [Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems](https://arxiv.org/pdf/2502.14019). ACL 2025 (Oral).
 
 4. Myra Cheng, Alicia DeVrio, Lisa Egede, Su Lin Blodgett, Alexandra Olteanu. ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI.](https://iclr-blogposts.github.io/2025/blog/anthropomorphic-ai/) ICLR Blogposts 2025.
 
-5. Alexandra Olteanu, Solon Barocas, Su Lin Blodgett, Lisa Egede, Alicia DeVrio, Myra Cheng. [AI Automatons: AI Systems Intended to Imitate Humans](https://arxiv.org/pdf/2503.02250)
-
-6. Alicia DeVrio, Myra Cheng, Lisa Egede, Alexandra Olteanu, Su Lin Blodgett. [A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies.](https://arxiv.org/pdf/2502.09870) CHI 2025.
-
-### Large-Scale Analysis of Implicit Language in AI Discourse
+### AI Discourse, Public Perceptions, & Field-wide Impacts
 7. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045) FAccT 2025.   
 <span class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
 
