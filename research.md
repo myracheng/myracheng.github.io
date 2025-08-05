@@ -3,8 +3,8 @@
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
-1. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [Social Sycophancy: A Broader Understanding of LLM Sycophancy.](https://arxiv.org/pdf/2505.13995) <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>
-<span class="subline">Press coverage by [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/) and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
+1. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [Social Sycophancy: A Broader Understanding of LLM Sycophancy.](https://arxiv.org/pdf/2505.13995) <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
+<span class="subline">Press coverage by [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
 ### Anthropomorphic AI Outputs
 2. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs.](https://www.arxiv.org/pdf/2502.13259) ACL 2025. <span class="subline">[[code]](https://github.com/myracheng/humtdumt)</span>
