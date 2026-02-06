@@ -3,9 +3,10 @@
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
-1. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
+1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)
+2. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
 Promotes Dependence.](https://arxiv.org/pdf/2510.01395?)
-2. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
+3. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
 Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
 <span class="subline">Press coverage by [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
