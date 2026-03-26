@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="imgs/me.jpg">
+<img class="profile-picture" src="imgs/me2.jpg">
 
 I am a PhD candidate in Computer Science in the Stanford NLP group. My research focuses on understanding and improving the social outcomes of NLP technologies, such as addressing anthropomorphism, social biases, and other implicit perceptions. I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
@@ -13,7 +13,9 @@ Previously, I did my undergraduate at Caltech, where I double-majored in compute
 My email is myra [at] cs [dot] stanford [dot] edu.
 
 ### Updates
-**June 2025**: Our paper on how [computer vision powers surveillance](https://www.nature.com/articles/s41586-025-08972-6) is out in Nature!
+**March 2026**: Our work on [AI sycophancy](https://www.science.org/doi/10.1126/science.aec8352) is the _Science_ cover story!
+
+**June 2025**: Our paper on how [computer vision powers surveillance](https://www.nature.com/articles/s41586-025-08972-6) is out in _Nature_!
 
 **May 2025**: Our work on [social sycophancy](https://arxiv.org/pdf/2505.13995) is featured in [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/)! 
 
