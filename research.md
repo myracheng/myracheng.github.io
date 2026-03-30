@@ -3,15 +3,17 @@
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
-1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)
+1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  
+<span class="subline">Press: [IEEE Spectrum](https://spectrum.ieee.org/ai-sycophancy)</span>
+
 2. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
 Promotes Dependence.](https://www.science.org/doi/10.1126/science.aec8352) _Science_, 2026.  
 <span class="subline">✩ Cover story of _Science_ magazine</span>  
-<span class="subline">Press coverage by the [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [ABC News](https://abcnews.com/Technology/wireStory/ai-giving-bad-advice-flatter-users-new-study-131443396), [TIME](https://time.com/7346052/problem-ai-flattering-us/), the [Guardian](https://www.theguardian.com/technology/2025/oct/24/sycophantic-ai-chatbots-tell-users-what-they-want-to-hear-study-shows), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [CNET](https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/), and [Ars Technica](https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/) among others.</span>
+<span class="subline">Press: [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [ABC News](https://abcnews.com/Technology/wireStory/ai-giving-bad-advice-flatter-users-new-study-131443396), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [NPR All Things Considered](https://www.npr.org/2026/03/26/nx-s1-5760875/ai-affirms-our-own-viewpoints-and-harms-willingness-to-resolve-conflict-study-finds), and 150+ others.</span>
 
-4. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
+3. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
 Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
-<span class="subline">Press coverage by [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
+<span class="subline">Press: [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
 ### Anthropomorphic AI Outputs
 2. Myra Cheng, Sunny Yu, Dan Jurafsky. [HumT DumT: Measuring and controlling human-like language in LLMs.](https://www.arxiv.org/pdf/2502.13259) ACL 2025. <span class="subline">[[code]](https://github.com/myracheng/humtdumt)</span>
@@ -25,17 +27,17 @@ Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <
 
 ### AI Discourse, Public Perceptions, & Field-wide Impacts
 7. Myra Cheng\*, Angela Y. Lee\*, Kristina Rapuano, Kate Niederhoffer, Alex Liebscher, Jeffrey Hancock. [From tools to thieves: Measuring and understanding public perceptions of AI through crowdsourced metaphors.](https://www.arxiv.org/pdf/2501.18045) FAccT 2025.   
-<span class="subline">Press coverage by [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
+<span class="subline">Press: [Fortune](https://fortune.com/2025/02/13/chatbot-friends-anthromorphism-competence-stanford-unviversity-study/), [Forbes](https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/), and [New Scientist](https://www.newscientist.com/article/2467435-people-are-starting-to-trust-ai-more-and-view-it-as-more-human-like/).</span>
 
 8. Pratyusha Ria Kalluri\*, William Agnew\*, Myra Cheng\*, Kentrell Owens\*, Luca Soldaini\*, Abeba Birhane\*. [Computer-vision research powers surveillance technology.](https://www.nature.com/articles/s41586-025-08972-6) _Nature_, 2025.   
-<span  class="subline">Press coverage by [Nature](https://www.nature.com/articles/d41586-025-01745-1) and [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
+<span  class="subline">Press: [Nature](https://www.nature.com/articles/d41586-025-01745-1) and [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
 
 9. Lujain Ibrahim\*, Myra Cheng\*. [Thinking beyond the anthropomorphic paradigm
 benefits LLM research.](https://arxiv.org/pdf/2502.09192) Under review.
 
 10. Myra Cheng, Kristina Gligorić, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf) [[code]](https://github.com/myracheng/AnthroScore)</span>  
 <span class="subline">
-Press coverage by [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>
+Press: [Scientific American](https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/) and [New Scientist](https://www.newscientist.com/article/2417992-researchers-increasingly-view-tech-as-having-human-like-qualities/).</span>
 
 ### Caricatures, Stereotypes, and Bias
 12. Myra Cheng, Tiziano Piccardi, Diyi Yang. [CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations.](https://arxiv.org/pdf/2310.11501.pdf) EMNLP 2023. <span class="subline">[[poster]](compost_poster.pdf) [[code]](https://github.com/myracheng/lm_caricature)</span>
