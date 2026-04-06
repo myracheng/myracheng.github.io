@@ -3,7 +3,7 @@
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
-1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  
+1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  To appear at ACL 2026.  
 <span class="subline">Press: [IEEE Spectrum](https://spectrum.ieee.org/ai-sycophancy)</span>
 
 2. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
@@ -33,7 +33,7 @@ Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <
 <span  class="subline">Press: [Nature](https://www.nature.com/articles/d41586-025-01745-1) and [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
 
 9. Lujain Ibrahim\*, Myra Cheng\*. [Thinking beyond the anthropomorphic paradigm
-benefits LLM research.](https://arxiv.org/pdf/2502.09192) Under review.
+benefits LLM research.](https://arxiv.org/pdf/2502.09192) To appear at ACL 2026.  
 
 10. Myra Cheng, Kristina Gligorić, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf) [[code]](https://github.com/myracheng/AnthroScore)</span>  
 <span class="subline">
