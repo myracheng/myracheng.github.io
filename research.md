@@ -3,15 +3,18 @@
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
 ### Sycophancy
-1. Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  To appear at ACL 2026.  
+
+1. Myra Cheng, Isabel Sieh, Humishka Zope, Sunny Yu, Lujain Ibrahim, Aryaman Arora, Jared Moore, Desmond Ong, Dan Jurafsky, Diyi Yang. [Verbalizing LLMs' assumptions to explain and control sycophancy](https://arxiv.org/abs/2604.03058) CHI 2026 Extended Abstracts; under review.
+  
+3.  Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  To appear at ACL 2026.  
 <span class="subline">Press: [IEEE Spectrum](https://spectrum.ieee.org/ai-sycophancy)</span>
 
-2. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
+4. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
 Promotes Dependence.](https://www.science.org/doi/10.1126/science.aec8352) _Science_, 2026.  
 <span class="subline">✩ Cover story of _Science_ magazine</span>  
 <span class="subline">Press: [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [NPR All Things Considered](https://www.npr.org/2026/03/26/nx-s1-5760875/ai-affirms-our-own-viewpoints-and-harms-willingness-to-resolve-conflict-study-finds), and [150+ others](https://science.altmetric.com/details/194360785/news).</span>
 
-3. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
+5. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
 Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
 <span class="subline">Press: [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
