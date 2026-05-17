@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="imgs/IMG_7117.jpg">
+<img class="profile-picture" src="imgs/IMG_7117.JPG">
 
 I am a PhD candidate in Computer Science in the Stanford NLP group. My research focuses on measuring and addressing the societal risks of conversational AI systems, such as sycophancy and anthropomorphism. I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
