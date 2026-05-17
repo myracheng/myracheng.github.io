@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="imgs/me2.jpg">
+<img class="profile-picture" src="imgs/IMG_7117.jpg">
 
-I am a PhD candidate in Computer Science in the Stanford NLP group. My research focuses on illuminating and addressing the societal risks of conversational AI systems, such as sycophancy and anthropomorphism. I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
+I am a PhD candidate in Computer Science in the Stanford NLP group. My research focuses on measuring and addressing the societal risks of conversational AI systems, such as sycophancy and anthropomorphism. I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
 Previously, I did my undergraduate at Caltech, where I double-majored in computer science and history. I've also spent time at Microsoft Research (on the FATE team with Alexandra Olteanu and Su Lin Blodgett, and with [Adam Kalai](https://kal.ai/)) and DeepMind.
 
