@@ -14,6 +14,8 @@ Previously, I did my undergraduate at Caltech, where I double-majored in compute
 My email is myra [at] cs [dot] stanford [dot] edu.
 
 ### Updates
+**June 2026**: In Seattle visiting [Yulia Tsvetkov's group](https://tsvetshop.github.io/) at UW for the summer!
+
 **March 2026**: Our work on [AI sycophancy](https://www.science.org/doi/10.1126/science.aec8352) is the _Science_ cover story!
 
 **June 2025**: Our paper on how [computer vision powers surveillance](https://www.nature.com/articles/s41586-025-08972-6) is out in _Nature_!
