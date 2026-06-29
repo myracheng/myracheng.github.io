@@ -14,6 +14,8 @@ Previously, I did my undergraduate at Caltech, where I double-majored in compute
 My email is myra [at] cs [dot] stanford [dot] edu.
 
 ### Updates
+**July 2026**: Presenting papers on [how pragmatics helps us understand LLM safety failures](https://aclanthology.org/2026.acl-long.736/), [thinking beyond anthropomorphic assumptions](https://aclanthology.org/2026.acl-long.118/) (orals), and [broadening LLM research to non-adopters' needs](https://aclanthology.org/2026.findings-acl.67/) (poster) at ACL!   
+
 **June 2026**: In Seattle visiting [Yulia Tsvetkov's group](https://tsvetshop.github.io/) at UW for the summer!
 
 **March 2026**: Our work on [AI sycophancy](https://www.science.org/doi/10.1126/science.aec8352) is the _Science_ cover story!
