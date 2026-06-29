@@ -14,7 +14,7 @@ Previously, I did my undergraduate at Caltech, where I double-majored in compute
 My email is myra [at] cs [dot] stanford [dot] edu.
 
 ### Updates
-**July 2026**: Presenting papers on [how pragmatics helps us understand LLM safety failures](https://aclanthology.org/2026.acl-long.736/), [thinking beyond anthropomorphic assumptions](https://aclanthology.org/2026.acl-long.118/) (orals), and [broadening LLM research to non-adopters' needs](https://aclanthology.org/2026.findings-acl.67/) (poster) at ACL!   
+**July 2026**: Presenting papers on [understand LLM safety failures using pragmatics](https://aclanthology.org/2026.acl-long.736/), [challenging anthropomorphic assumptions](https://aclanthology.org/2026.acl-long.118/) (orals), and [broadening LLM research to non-adopters' needs](https://aclanthology.org/2026.findings-acl.67/) (poster) at ACL!   
 
 **June 2026**: In Seattle visiting [Yulia Tsvetkov's group](https://tsvetshop.github.io/) at UW for the summer!
 
