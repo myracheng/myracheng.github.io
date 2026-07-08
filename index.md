@@ -6,12 +6,9 @@ layout: default
 I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. I develop computational methods for understanding and improving how people use LLMs, especially in subjective, high-stakes domains.
 I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
-Previously, I did my undergraduate at Caltech, where I double-majored in computer science and history. I've also spent time at Microsoft Research (on the FATE team with Alexandra Olteanu and Su Lin Blodgett, and with [Adam Kalai](https://kal.ai/)) and DeepMind.
-
-<!-- My work aims to mitigate algorithmic harms from language technologies and reveal the implicit norms that shape their development -->
-
 ### Contact
 My email is myra [at] cs [dot] stanford [dot] edu.
+
 
 ### Updates
 **July 2026**: Presenting papers on [understanding LLM safety failures using pragmatics](https://aclanthology.org/2026.acl-long.736/), [challenging anthropomorphic assumptions](https://aclanthology.org/2026.acl-long.118/) (orals), and [broadening LLM research to non-adopters' needs](https://aclanthology.org/2026.findings-acl.67/) (poster) at ACL!   
