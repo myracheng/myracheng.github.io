@@ -20,5 +20,7 @@ nav:
    link: "/"
  - name: "Research"
    link: "research"
+- name: "CV"
+   link: "/cv_070826.pdf"
  - name: "Teaching"
    link: "teaching"
