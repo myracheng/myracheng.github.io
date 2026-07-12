@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="profile-picture" src="imgs/me3.jpeg">
 
-I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. I develop computational methods for understanding and improving how people use LLMs, especially in subjective, high-stakes domains.
+I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. Drawing on insights from linguistics and psychology, I develop computational methods for understanding and improving how people use LLMs, especially in subjective, high-stakes domains.
 I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
 ### Contact
