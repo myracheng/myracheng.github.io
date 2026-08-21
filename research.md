@@ -4,18 +4,18 @@ For a full list, see [Google Scholar](https://scholar.google.com/citations?user=
 
 ### Sycophancy
 
-1. Myra Cheng, Isabel Sieh, Humishka Zope, Sunny Yu, Lujain Ibrahim, Aryaman Arora, Jared Moore, Desmond Ong, Dan Jurafsky, Diyi Yang. [Verbalizing LLMs' assumptions to explain and control sycophancy](https://arxiv.org/abs/2604.03058) CHI 2026 Extended Abstracts; under review.
+1. Myra Cheng, Isabel Sieh, Humishka Zope, Sunny Yu, Lujain Ibrahim, Aryaman Arora, Jared Moore, Desmond Ong, Dan Jurafsky, Diyi Yang. [Verbalizing LLMs' assumptions to explain and control sycophancy](https://arxiv.org/abs/2604.03058) COLM 2026.
   
-3.  Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://arxiv.org/pdf/2601.04435)  To appear at ACL 2026.  
+3.  Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://aclanthology.org/2026.acl-long.736/) ACL 2026 (Oral).  
 <span class="subline">Press: [IEEE Spectrum](https://spectrum.ieee.org/ai-sycophancy)</span>
 
 4. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
 Promotes Dependence.](https://www.science.org/doi/10.1126/science.aec8352) _Science_, 2026.  
-<span class="subline">✩ Cover story of _Science_ magazine</span>  
-<span class="subline">Press: [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [NPR All Things Considered](https://www.npr.org/2026/03/26/nx-s1-5760875/ai-affirms-our-own-viewpoints-and-harms-willingness-to-resolve-conflict-study-finds), and [150+ others](https://science.altmetric.com/details/194360785/news).</span>
+<span class="subline">✩ Cover story of _Science_</span>  
+<span class="subline">Press: [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [NPR All Things Considered](https://www.npr.org/2026/03/26/nx-s1-5760875/ai-affirms-our-own-viewpoints-and-harms-willingness-to-resolve-conflict-study-finds), and [300+ others](https://science.altmetric.com/details/194360785/news).</span>
 
 5. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
-Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) To appear at ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
+Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
 <span class="subline">Press: [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
 ### Anthropomorphic AI Outputs
@@ -46,7 +46,7 @@ Press: [Scientific American](https://www.scientificamerican.com/article/can-ai-r
 12. Myra Cheng, Tiziano Piccardi, Diyi Yang. [CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations.](https://arxiv.org/pdf/2310.11501.pdf) EMNLP 2023. <span class="subline">[[poster]](compost_poster.pdf) [[code]](https://github.com/myracheng/lm_caricature)</span>
 
 13. Myra Cheng, Esin Durmus, Dan Jurafsky. [Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models.](https://arxiv.org/pdf/2305.18189.pdf) ACL 2023. <span class="subline">[[slides]](marked_slides.pdf)  [[code]](https://github.com/myracheng/markedpersonas)</span>  
-<span class="subline">✩ Social Impact Award, Nominated for Best Paper</span> 
+<span class="subline">✩ Best Social Impact Paper Award, Nominated for Best Paper</span> 
 
 14. Federico Bianchi\*, Pratyusha Kalluri\*, Esin Durmus\*, Faisal Ladhak\*, Myra Cheng\*, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan. [Easily accessible text-to-image generation amplifies demographic stereotypes at large scale.](https://arxiv.org/pdf/2211.03759.pdf) FAccT 2023.  
 <span  class="subline">Press coverage by [Nature](https://www.nature.com/articles/d41586-024-00674-9), [CBS News Prime Time](https://www.youtube.com/watch?v=0KFJf9QqfCw), the [Washington Post](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/) and [MIT Technology Review](https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/).</span>
