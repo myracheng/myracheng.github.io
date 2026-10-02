@@ -2,19 +2,29 @@
 
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=gaslQl8AAAAJ&hl=en)!
 
+### Overreliance and deskilling
+1. Myra Cheng\*, Lujain Ibrahim\*, Grace Liu, Michelle S. Lam, Vishakh Padmakumar, Nick Madibekov, Diyi Yang, and Dan Jurafsky.
+[LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions.](https://arxiv.org/abs/2609.14849v1) Preprint.
+
+3. Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins.  
+[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on Simple Tasks.](https://arxiv.org/abs/2605.22687) CogSci 2026.
+
 ### Sycophancy
 
-1. Myra Cheng, Isabel Sieh, Humishka Zope, Sunny Yu, Lujain Ibrahim, Aryaman Arora, Jared Moore, Desmond Ong, Dan Jurafsky, Diyi Yang. [Verbalizing LLMs' assumptions to explain and control sycophancy](https://arxiv.org/abs/2604.03058) COLM 2026.
+1. Myra Cheng, Isabel Sieh, Humishka Zope, Sunny Yu, Lujain Ibrahim, Aryaman Arora, Jared Moore, Desmond Ong, Dan Jurafsky, Diyi Yang. [Verbalizing LLMs' assumptions to explain and control sycophancy.](https://arxiv.org/abs/2604.03058) COLM 2026.
   
-3.  Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://aclanthology.org/2026.acl-long.736/) ACL 2026 (Oral).  
+2.  Myra Cheng, Robert D. Hawkins, Dan Jurafsky. [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs.](https://aclanthology.org/2026.acl-long.736/) ACL 2026 (Oral).  
 <span class="subline">Press: [IEEE Spectrum](https://spectrum.ieee.org/ai-sycophancy)</span>
 
-4. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
+3. Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher,   Diyi Yang.
+[Sycophantic AI makes human interaction feel more effortful and less satisfying over time.](https://arxiv.org/abs/2605.07912) Preprint.
+
+5. Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky. [Sycophantic AI Decreases Prosocial Intentions and
 Promotes Dependence.](https://www.science.org/doi/10.1126/science.aec8352) _Science_, 2026.  
 <span class="subline">✩ Cover story of _Science_</span>  
 <span class="subline">Press: [Associated Press](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6), the [New York Times](https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html), [Scientific American](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/), [NPR All Things Considered](https://www.npr.org/2026/03/26/nx-s1-5760875/ai-affirms-our-own-viewpoints-and-harms-willingness-to-resolve-conflict-study-finds), and [300+ others](https://science.altmetric.com/details/194360785/news).</span>
 
-5. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
+6. Myra Cheng\*, Sunny Yu\*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. [ELEPHANT: Measuring and Understanding Social
 Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) ICLR 2026. <span class="subline">[[code]](https://github.com/myracheng/elephant)</span>  
 <span class="subline">Press: [MIT Technology Review](https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/), [NPR](https://www.npr.org/2025/08/05/nx-s1-5490447/ai-chatgpt-couples-therapy-advice), and [VentureBeat](https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/).</span>
 
@@ -36,7 +46,7 @@ Sycophancy in LLMs.](https://arxiv.org/pdf/2505.13995) ICLR 2026. <span class="s
 <span  class="subline">Press: [Nature](https://www.nature.com/articles/d41586-025-01745-1) and [404 Media](https://www.404media.co/how-the-surveillance-ai-pipeline-literally-objectifies-human-beings/).</span>
 
 9. Lujain Ibrahim\*, Myra Cheng\*. [Thinking beyond the anthropomorphic paradigm
-benefits LLM research.](https://arxiv.org/pdf/2502.09192) To appear at ACL 2026.  
+benefits LLM research.](https://arxiv.org/pdf/2502.09192) ACL 2026.  
 
 10. Myra Cheng, Kristina Gligorić, Tiziano Piccardi, Dan Jurafsky. [AnthroScore: A Computational Linguistic Measure of Anthropomorphism.](https://arxiv.org/pdf/2402.02056.pdf) EACL 2024. <span class="subline">[[website]](http://anthroscore.stanford.edu/)  [[slides]](anthroslides.pdf) [[code]](https://github.com/myracheng/AnthroScore)</span>  
 <span class="subline">
