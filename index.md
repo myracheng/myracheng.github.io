@@ -3,13 +3,17 @@ layout: default
 ---
 <img class="profile-picture" src="imgs/me3.jpeg">
 
-I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. Drawing on insights from linguistics and psychology, I develop computational methods for understanding and improving human-AI interaction and the societal implications of AI.
+I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. Drawing on insights from linguistics and psychology, I develop computational methods for understanding and improving AI's impacts on people. 
 I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
 
 ### Contact
 My email is myra [at] cs [dot] stanford [dot] edu. If you are a student interested in working with me, please reach out via email and/or fill out [this form](https://forms.gle/EHnZS7srAc2D2wL77)!
 
 ### Updates
+**October 2026**: New [preprint on how people rely on LLMs as oracles](https://arxiv.org/pdf/2609.14849v1) 🔮 and presenting [Verbalized Assumptions](https://arxiv.org/pdf/2604.03058) - our framework to steer LLMs' assumptions about users - at COLM!
+
+**September 2026**: Honored to be named a [MIT Tech Review Innovator Under 35](https://ter.li/g2sgc7c6), Rising Star in Data Science, and Caltech EAS Trailblazer 😯
+
 **July 2026**: Presenting papers on [understanding LLM safety failures using pragmatics](https://aclanthology.org/2026.acl-long.736/), [challenging anthropomorphic assumptions](https://aclanthology.org/2026.acl-long.118/) (orals), and [broadening LLM research to non-adopters' needs](https://aclanthology.org/2026.findings-acl.67/) (poster) at ACL!   
 
 **June 2026**: In Seattle visiting [Yulia Tsvetkov's group](https://tsvetshop.github.io/) at UW for the summer!
