@@ -10,7 +10,7 @@ I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> an
 My email is myra [at] cs [dot] stanford [dot] edu. If you are a student interested in working with me, please reach out via email and/or fill out [this form](https://forms.gle/EHnZS7srAc2D2wL77)!
 
 ### Updates
-**October 2026**: New [preprint on how people rely on LLMs as oracles](https://arxiv.org/pdf/2609.14849v1) 🔮 and presenting [Verbalized Assumptions](https://arxiv.org/pdf/2604.03058) - our framework to steer LLMs' assumptions about users - at COLM!
+**October 2026**: New [preprint on how people rely on LLMs as oracles](https://arxiv.org/pdf/2609.14849v1) 🔮 covered by the [NYTimes](https://www.nytimes.com/2026/10/18/briefing/the-chatbot-oracle.html)! And presenting [Verbalized Assumptions](https://arxiv.org/pdf/2604.03058) - our framework to steer LLMs' assumptions about users - at COLM!
 
 **September 2026**: Honored to be named a [MIT Tech Review Innovator Under 35](https://ter.li/g2sgc7c6), Rising Star in Data Science, and Caltech EAS Trailblazer 😯
 
