@@ -4,6 +4,8 @@ For a full list, see [Google Scholar](https://scholar.google.com/citations?user=
 
 ### Overreliance and deskilling
 1. Myra Cheng\*, Lujain Ibrahim\*, Grace Liu, Michelle S. Lam, Vishakh Padmakumar, Nick Madibekov, Diyi Yang, and Dan Jurafsky. [LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions.](https://arxiv.org/abs/2609.14849v1) Preprint.
+<span class="subline">Press: [New York Times](https://www.nytimes.com/2026/10/18/briefing/the-chatbot-oracle.html)</span>
+
 
 3. Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. [The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on Simple Tasks.](https://arxiv.org/abs/2605.22687) CogSci 2026.
 
