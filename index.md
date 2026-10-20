@@ -4,7 +4,7 @@ layout: default
 <img class="profile-picture" src="imgs/me3.jpeg">
 
 I am a final-year PhD candidate in Computer Science in the Stanford NLP group. My research interest is in building language technologies that promote human agency and wellbeing. Drawing on insights from linguistics and psychology, I develop computational methods for understanding and improving AI's impacts on people. 
-I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. 
+I am advised by <a href="https://web.stanford.edu/~jurafsky">Dan Jurafsky</a> and supported by the Knight-Hennessy Scholarship and the NSF Graduate Research Fellowship. **I am on the academic job market for tenure-track positions! :)**
 
 ### Contact
 My email is myra [at] cs [dot] stanford [dot] edu. If you are a student interested in working with me, please reach out via email and/or fill out [this form](https://forms.gle/EHnZS7srAc2D2wL77)!
